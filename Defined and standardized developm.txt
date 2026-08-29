@@ -1,0 +1,7 @@
+•	Defined and standardized development, testing, release, and update processes to streamline DevOps operations
+•	Automated repetitive tasks using scripting languages such as Shell Script, and Groovy, improving team productivity and system reliability.
+•	Excellent time management skills, capable of handling multiple tasks and meeting deadlines. 
+•	Maintained JIRA projects, workflows, permissions, and user accounts while improving JIRA security and managing access permissions for Confluence spaces. 
+•	Developed automation scripts using PowerShell, Bash for DevOps tasks. 
+•	Administered Git-based version controlsystems, ensuring code integrity and collaboration
+
